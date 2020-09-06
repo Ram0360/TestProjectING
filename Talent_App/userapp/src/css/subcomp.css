@@ -1,0 +1,27 @@
+/* .caro-sel
+{
+    height: 100px;
+} */
+
+
+.carousel-item > img {
+    width: 100% !important;
+    height: 361px;
+}
+
+h1.quotes {
+    color: darkgoldenrod;
+    font-family: fantasy;
+}
+
+.quotations {
+    padding: 30px;
+    margin: auto;
+}
+
+marquee.home-marquee {
+    color: white;
+    background-color: black;
+    font-size: larger;
+    height: 40px;
+}

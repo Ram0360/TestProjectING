@@ -1,0 +1,36 @@
+span.input-group-text {
+    width: 160px;
+}
+
+#table-heading
+{
+    background-color: black;
+    color: aqua;
+}
+
+thead.tbl-header {
+    background-color: black;
+    color: aqua;
+}
+
+tbody {
+    font: caption !important;
+    color: darkblue !important;
+}
+
+.row {
+    font-size: larger;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 60px !important;
+    padding-left: 60px !important;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#noofentry {
+    padding-left: 60px;
+    color: green;
+}
